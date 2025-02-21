@@ -19,5 +19,5 @@
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/REACT-brown?style=for-the-badge&logo=REACT&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQL-brown?style=for-the-badge&logo=SQL&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=HTML&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/c-green?style=for-the-badge&logo=c&logoColor=black)
